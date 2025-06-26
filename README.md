@@ -1,10 +1,12 @@
-# 
-It's a mod as HS2 / AI-Shoujo Accessory / Outfit / Studio Item.
+![AI_2025-06-26-20-29-01-768](https://github.com/user-attachments/assets/9011db12-316b-4650-8b2e-ca6ac50b608f)
+
+# Chains on Body
+It's a mod for HS2 / AI-Shoujo Outfit.
 
 ## How to Use
-Download the **.zipmod** file for the latest version on the [Release](https://github.com/Blatke//releases) Page, then drag and drop it into your **/mods/** folder to finish installation, or use KKManager to install this mod.
+Download the **.zipmod** file for the latest version on the [Release](https://github.com/Blatke/Chains-on-Body/releases) Page, then drag and drop it into your **/mods/** folder to finish installation, or use KKManager to install this mod.
 
-In Chara Maker, go to the Outfit / Accessory Panel, on the tab of Top / Shoes / Chest, search by "blake" or the item name, referred on the list below, in the textbox to find the mod, and add it to your character.
+In Chara Maker, go to the Outfit Panel, on the tab of Bottom (内裤) search by "blake" or "chains on body" in the textbox to find the mod, then add it to your character.
 
 In Studio, seach for "blake" or the item name, referred on the list below, in the QuickAccessBox tab to find the mod, and add it in your scene.
 
@@ -13,7 +15,10 @@ Use MaterialEditor to adjust the color and other parameters.
 In Studio you can enable the FK function on the Anim tab to activiate the item's FK nodes to rotate. 
 
 ## List of Names
+1. Chains on Body 1
+2. Chains on Body Rusted 1
 
+![AI_2025-06-26-20-29-57-434](https://github.com/user-attachments/assets/02b72b33-2b49-47f4-b902-c3dbadee778c)
 
 ## About Me
 Bl@ke
