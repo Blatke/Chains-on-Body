@@ -14,9 +14,7 @@ Use MaterialEditor to:
 1. Adjust the color and other parameters.
 2. Turn off/On the render of a particular element in the chains.
 
-In Studio you can enable the FK function on the Anim tab to activiate the item's FK nodes to rotate. 
-
-## List of Names
+## List of Components in Mod
 1. Chains on Body 1
 2. Chains on Body Rusted 1
 
