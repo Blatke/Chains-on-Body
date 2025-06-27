@@ -8,8 +8,6 @@ Download the **.zipmod** file for the latest version on the [Release](https://gi
 
 In Chara Maker, go to the **Outfit** Panel, on the tab of **Bottom** (内裤) search for "blake" or "chains on body" in the textbox to find the mod, then add it to your character.
 
-In Studio, seach for "blake" or the item name, referred on the list below, in the QuickAccessBox tab to find the mod, and add it in your scene.
-
 Use MaterialEditor to:
 1. Adjust the color and other parameters.
 2. Turn off/On the render of a particular element in the chains.
