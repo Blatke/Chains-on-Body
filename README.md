@@ -10,7 +10,9 @@ In Chara Maker, go to the Outfit Panel, on the tab of Bottom (内裤) search by 
 
 In Studio, seach for "blake" or the item name, referred on the list below, in the QuickAccessBox tab to find the mod, and add it in your scene.
 
-Use MaterialEditor to adjust the color and other parameters. 
+Use MaterialEditor to:
+1. Adjust the color and other parameters.
+2. Turn off/On the render of a particular element in the chains.
 
 In Studio you can enable the FK function on the Anim tab to activiate the item's FK nodes to rotate. 
 
