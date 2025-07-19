@@ -6,7 +6,7 @@ It's a mod for HS2 / AI-Shoujo Outfit.
 ## How to Use
 Download the **.zipmod** file for the latest version on the [Release](https://github.com/Blatke/Chains-on-Body/releases) Page, then drag and drop it into your **/mods/** folder to finish installation, or use KKManager to install this mod.
 
-In Chara Maker, go to the **Outfit** Panel, on the tab of **Bottom** (内裤) search for "blake" or "chains on body" in the textbox to find the mod, then add it to your character.
+In Chara Maker, go to the **Outfit** Panel, on the tab of **InnerBottom** (内裤) search for "blake" or "chains on body" in the textbox to find the mod, then add it to your character.
 
 Use MaterialEditor to:
 1. Adjust the color and other parameters.
